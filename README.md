@@ -1,7 +1,7 @@
 ##👋 Hi, I'm Dan-Ovidiu Marginean
 
 🎓 Master's student in Information Technology in Economy  
-💻 Junior Software Developer | Full-Stack | Python | SQL  
+💻 Junior Software Engineer | Full-Stack | Python | SQL  
 
 
 ## 👨‍💻 About Me
