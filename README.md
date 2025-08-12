@@ -6,23 +6,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate junior developer who enjoys solving real-world problems through code. I have practical experience building applications from backend APIs to frontend UIs, and a strong interest in data processing, automation, and clean architecture.
+I'm a passionate software developer who enjoys solving real-world problems through code. I have practical experience building applications from backend APIs to frontend UIs, and a strong interest in data processing, automation, and clean architecture.
 
 Currently, I’m sharpening my skills in Python, data engineering concepts, and cloud technologies, while also contributing to meaningful projects in radar systems and automation.
 
 ## 🔧 Tech Stack & Tools
 
 **Languages:**  
-`Python` `Java` `C/C++` `JavaScript` `TypeScript` `PowerShell`
+`Python` `Java` `C/C++` `JavaScript` `TypeScript` `PowerShell` `C#`
 
 **Frameworks & Tools:**  
-`Spring Boot` `Angular` `Flask (basic)` `Git` `Bitbucket` `Jira` `Docker (basic)`
+`Spring Boot` `Angular` `Flask` `Git` `Bitbucket` `Jira` `Docker (basic)`
 
 **Data & Cloud:**  
-`PostgreSQL` `MySQL` `MongoDB` `SSMS` `Power BI` `AWS S3 (basic)` `Airflow (basic)`
+`PostgreSQL` `MySQL` `SSMS` `Power BI` `Airflow (basic)`
 
 **Concepts:**  
-`REST APIs` `Multithreading` `ETL` `OOP` `Agile` `CI/CD (basic)` `Linux CLI`
+`REST APIs` `Multithreading` `ETL` `OOP` `Agile` `CI/CD (basic)` 
 
 
 
